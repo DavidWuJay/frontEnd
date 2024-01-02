@@ -2,7 +2,7 @@
  * @Author: wujiewei 619673401@qq.com
  * @Date: 2023-12-28 16:30:21
  * @LastEditors: wujiewei 619673401@qq.com
- * @LastEditTime: 2023-12-29 08:08:02
+ * @LastEditTime: 2024-01-02 10:33:31
  * @FilePath: /ar-table/培训计划/1day.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -32,7 +32,7 @@
 - HTML 标记标签通常被称为 HTML 标签 (HTML tag)。
 
 - HTML 标签是由尖括号包围的关键词，比如 <html>
-- HTML 标签通常是成对出现的，比如 <b> 和 </b>
+- HTML 标签通常是成对出现的，比如
 - 标签对中的第一个标签是开始标签，第二个标签是结束标签
 - 开始和结束标签也被称为开放标签和闭合标签
 > HTML 标签 和 HTML 元素 叫法不同，但是含义是一样的
